@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Event.master.cs" Inherits="WebApplication1.Event" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class ="Navigation">
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+                <CurrentNodeStyle ForeColor="#333333" />
+                <NodeStyle Font-Bold="True" ForeColor="#7C6F57" />
+                <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+            </asp:SiteMapPath>
+            <asp:Menu ID="Menu1" runat="server" CssClass="menu" DataSourceID="SiteMapDataSource1" Orientation="Horizontal" StaticDisplayLevels="2">
+            </asp:Menu>
+            <h1>Event Registration
+            </h1>
+        </div>
+
+        <div class ="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+         <div class="bottom">
+              Copyright (c) 2010 Wrox Press
+        </div>
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+    </form>
+</body>
+</html>

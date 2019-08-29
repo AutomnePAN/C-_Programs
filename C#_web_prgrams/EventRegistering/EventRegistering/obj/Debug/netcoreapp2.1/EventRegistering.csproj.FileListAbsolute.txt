@@ -1,0 +1,14 @@
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\bin\Debug\netcoreapp2.1\EventRegistering.deps.json
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\bin\Debug\netcoreapp2.1\EventRegistering.runtimeconfig.json
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\bin\Debug\netcoreapp2.1\EventRegistering.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\bin\Debug\netcoreapp2.1\EventRegistering.dll
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\bin\Debug\netcoreapp2.1\EventRegistering.pdb
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.RazorAssemblyInfo.cache
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.RazorAssemblyInfo.cs
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.AssemblyInfo.cs
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.RazorTargetAssemblyInfo.cache
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.dll
+C:\Users\Automne\source\repos\C#_web_prgrams\EventRegistering\EventRegistering\obj\Debug\netcoreapp2.1\EventRegistering.pdb

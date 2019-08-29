@@ -1,0 +1,48 @@
+﻿body {
+    font-family:Calibri;
+    font-size: large;
+    color:aqua;
+    background-color:dimgray;
+    padding: 0px;
+    margin: 0px;
+}
+
+a:hover {
+    text-decoration: underline overline;
+    color:whitesmoke;
+}
+
+a:link a:visited
+{
+    color: hotpink;
+}
+
+h1
+{
+    text-align: center;
+    color:deepskyblue;
+}
+
+.bottom {
+    margin: 5px;
+    height: 40px;
+    text-align: center;
+    vertical-align: text-bottom;
+    font-size: x-small;
+}
+
+.menu ul li a {
+    background-color: dimgrey;
+    border: 1.5px solid whitesmoke;
+    color: deepskyblue;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+ .menu ul li a:hover {
+    background-color:dimgrey;
+    color:azure;
+    text-decoration: none;
+}

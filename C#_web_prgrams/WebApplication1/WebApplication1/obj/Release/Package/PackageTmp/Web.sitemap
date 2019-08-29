@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode url="Default.aspx" title="Home">
+    <siteMapNode url="EventRegister.aspx" title="Register" wrox.com="" description="Register to an Event" />
+    <siteMapNode url="EventList.aspx" title="Event List" description="Lists Events Worldwide" />
+    <siteMapNode url="Admin/EventManagement.aspx" title="Event Management"
+    description="Management of Events" roles="Editors" />
+  </siteMapNode>
+</siteMap>
