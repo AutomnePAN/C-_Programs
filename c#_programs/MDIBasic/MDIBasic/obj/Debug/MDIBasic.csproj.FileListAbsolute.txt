@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\bin\Debug\MDIBasic.exe.config
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\bin\Debug\MDIBasic.exe
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\bin\Debug\MDIBasic.pdb
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.frmContainer.resources
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.frmChild.resources
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.exe
+C:\Users\Automne\source\repos\c#_programs\MDIBasic\MDIBasic\obj\Debug\MDIBasic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\bin\Debug\netcoreapp2.1\Test_Delegate.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\bin\Debug\netcoreapp2.1\Test_Delegate.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\bin\Debug\netcoreapp2.1\Test_Delegate.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\bin\Debug\netcoreapp2.1\Test_Delegate.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\bin\Debug\netcoreapp2.1\Test_Delegate.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Delegate\Test_Delegate\obj\Debug\netcoreapp2.1\Test_Delegate.pdb

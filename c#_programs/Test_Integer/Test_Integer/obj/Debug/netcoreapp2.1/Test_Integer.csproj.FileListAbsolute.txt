@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\bin\Debug\netcoreapp2.1\Test_Integer.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\bin\Debug\netcoreapp2.1\Test_Integer.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\bin\Debug\netcoreapp2.1\Test_Integer.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\bin\Debug\netcoreapp2.1\Test_Integer.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\bin\Debug\netcoreapp2.1\Test_Integer.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Integer\Test_Integer\obj\Debug\netcoreapp2.1\Test_Integer.pdb

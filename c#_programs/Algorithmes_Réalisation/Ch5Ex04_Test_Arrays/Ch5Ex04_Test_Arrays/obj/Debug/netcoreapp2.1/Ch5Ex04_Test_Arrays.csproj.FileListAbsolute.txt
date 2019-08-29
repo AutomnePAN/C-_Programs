@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\bin\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.deps.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\bin\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\bin\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\bin\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\bin\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.pdb
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Ch5Ex04_Test_Arrays\Ch5Ex04_Test_Arrays\obj\Debug\netcoreapp2.1\Ch5Ex04_Test_Arrays.pdb

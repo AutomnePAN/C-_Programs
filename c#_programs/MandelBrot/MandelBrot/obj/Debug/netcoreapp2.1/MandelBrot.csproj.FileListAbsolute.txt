@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\bin\Debug\netcoreapp2.1\MandelBrot.deps.json
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\bin\Debug\netcoreapp2.1\MandelBrot.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\bin\Debug\netcoreapp2.1\MandelBrot.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\bin\Debug\netcoreapp2.1\MandelBrot.dll
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\bin\Debug\netcoreapp2.1\MandelBrot.pdb
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\obj\Debug\netcoreapp2.1\MandelBrot.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\obj\Debug\netcoreapp2.1\MandelBrot.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\obj\Debug\netcoreapp2.1\MandelBrot.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\obj\Debug\netcoreapp2.1\MandelBrot.dll
+C:\Users\Automne\source\repos\c#_programs\MandelBrot\MandelBrot\obj\Debug\netcoreapp2.1\MandelBrot.pdb

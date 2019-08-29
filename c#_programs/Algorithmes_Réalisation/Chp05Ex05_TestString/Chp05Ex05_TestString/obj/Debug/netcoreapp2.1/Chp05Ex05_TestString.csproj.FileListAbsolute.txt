@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\bin\Debug\netcoreapp2.1\Chp05Ex05_TestString.deps.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\bin\Debug\netcoreapp2.1\Chp05Ex05_TestString.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\bin\Debug\netcoreapp2.1\Chp05Ex05_TestString.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\bin\Debug\netcoreapp2.1\Chp05Ex05_TestString.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\bin\Debug\netcoreapp2.1\Chp05Ex05_TestString.pdb
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\obj\Debug\netcoreapp2.1\Chp05Ex05_TestString.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\obj\Debug\netcoreapp2.1\Chp05Ex05_TestString.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\obj\Debug\netcoreapp2.1\Chp05Ex05_TestString.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\obj\Debug\netcoreapp2.1\Chp05Ex05_TestString.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\Chp05Ex05_TestString\Chp05Ex05_TestString\obj\Debug\netcoreapp2.1\Chp05Ex05_TestString.pdb

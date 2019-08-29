@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\bin\Debug\ListView.exe.config
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\bin\Debug\ListView.exe
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\bin\Debug\ListView.pdb
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.exe
+C:\Users\Automne\source\repos\c#_programs\ListView\ListView\obj\Debug\ListView.pdb

@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\bin\Debug\netcoreapp2.1\Hello_world1.deps.json
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\bin\Debug\netcoreapp2.1\Hello_world1.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\bin\Debug\netcoreapp2.1\Hello_world1.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\bin\Debug\netcoreapp2.1\Hello_world1.dll
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\bin\Debug\netcoreapp2.1\Hello_world1.pdb
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.dll
+C:\Users\Automne\source\repos\c#_programs\Hello_world1\Hello_world1\obj\Debug\netcoreapp2.1\Hello_world1.pdb

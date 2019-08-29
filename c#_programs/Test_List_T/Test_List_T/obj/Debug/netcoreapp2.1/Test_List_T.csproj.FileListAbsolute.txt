@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\bin\Debug\netcoreapp2.1\Test_List_T.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\bin\Debug\netcoreapp2.1\Test_List_T.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\bin\Debug\netcoreapp2.1\Test_List_T.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\bin\Debug\netcoreapp2.1\Test_List_T.dll
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\bin\Debug\netcoreapp2.1\Test_List_T.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.dll
+C:\Users\Automne\source\repos\c#_programs\Test_List_T\Test_List_T\obj\Debug\netcoreapp2.1\Test_List_T.pdb

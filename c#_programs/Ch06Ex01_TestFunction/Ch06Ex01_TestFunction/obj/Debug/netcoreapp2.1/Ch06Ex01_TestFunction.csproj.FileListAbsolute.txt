@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\bin\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.deps.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\bin\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\bin\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\bin\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.dll
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\bin\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.pdb
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.dll
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex01_TestFunction\Ch06Ex01_TestFunction\obj\Debug\netcoreapp2.1\Ch06Ex01_TestFunction.pdb

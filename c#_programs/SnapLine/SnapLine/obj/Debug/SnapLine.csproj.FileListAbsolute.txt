@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\bin\Debug\SnapLine.exe.config
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\bin\Debug\SnapLine.exe
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\bin\Debug\SnapLine.pdb
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.exe
+C:\Users\Automne\source\repos\c#_programs\SnapLine\SnapLine\obj\Debug\SnapLine.pdb

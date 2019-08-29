@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\bin\Debug\netcoreapp2.1\Test_Lambda_Exp.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\bin\Debug\netcoreapp2.1\Test_Lambda_Exp.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\bin\Debug\netcoreapp2.1\Test_Lambda_Exp.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\bin\Debug\netcoreapp2.1\Test_Lambda_Exp.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\bin\Debug\netcoreapp2.1\Test_Lambda_Exp.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Lambda_Exp\Test_Lambda_Exp\obj\Debug\netcoreapp2.1\Test_Lambda_Exp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\bin\Debug\netcoreapp2.1\Test_Control_structure.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\bin\Debug\netcoreapp2.1\Test_Control_structure.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\bin\Debug\netcoreapp2.1\Test_Control_structure.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\bin\Debug\netcoreapp2.1\Test_Control_structure.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\bin\Debug\netcoreapp2.1\Test_Control_structure.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Control_structure\Test_Control_structure\obj\Debug\netcoreapp2.1\Test_Control_structure.pdb

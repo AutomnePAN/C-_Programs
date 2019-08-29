@@ -1,0 +1,9 @@
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\bin\Debug\ProfessionalMenu.exe.config
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\bin\Debug\ProfessionalMenu.exe
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\bin\Debug\ProfessionalMenu.pdb
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.exe
+C:\Users\Automne\source\repos\c#_programs\ProfessionalMenu\ProfessionalMenu\obj\Debug\ProfessionalMenu.pdb

@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\bin\Debug\netcoreapp2.1\Test_Enum.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\bin\Debug\netcoreapp2.1\Test_Enum.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\bin\Debug\netcoreapp2.1\Test_Enum.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\bin\Debug\netcoreapp2.1\Test_Enum.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\bin\Debug\netcoreapp2.1\Test_Enum.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\obj\Debug\netcoreapp2.1\Test_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\obj\Debug\netcoreapp2.1\Test_Enum.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\obj\Debug\netcoreapp2.1\Test_Enum.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\obj\Debug\netcoreapp2.1\Test_Enum.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Enum\Test_Enum\obj\Debug\netcoreapp2.1\Test_Enum.pdb

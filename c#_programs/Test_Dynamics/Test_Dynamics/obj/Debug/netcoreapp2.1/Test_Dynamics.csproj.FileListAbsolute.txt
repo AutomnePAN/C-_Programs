@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\bin\Debug\netcoreapp2.1\Test_Dynamics.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\bin\Debug\netcoreapp2.1\Test_Dynamics.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\bin\Debug\netcoreapp2.1\Test_Dynamics.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\bin\Debug\netcoreapp2.1\Test_Dynamics.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\bin\Debug\netcoreapp2.1\Test_Dynamics.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\obj\Debug\netcoreapp2.1\Test_Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\obj\Debug\netcoreapp2.1\Test_Dynamics.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\obj\Debug\netcoreapp2.1\Test_Dynamics.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\obj\Debug\netcoreapp2.1\Test_Dynamics.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Dynamics\Test_Dynamics\obj\Debug\netcoreapp2.1\Test_Dynamics.pdb

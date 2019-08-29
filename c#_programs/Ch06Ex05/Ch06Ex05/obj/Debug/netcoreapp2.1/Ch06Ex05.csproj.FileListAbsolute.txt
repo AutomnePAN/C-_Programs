@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\bin\Debug\netcoreapp2.1\Ch06Ex05.deps.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\bin\Debug\netcoreapp2.1\Ch06Ex05.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\bin\Debug\netcoreapp2.1\Ch06Ex05.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\bin\Debug\netcoreapp2.1\Ch06Ex05.dll
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\bin\Debug\netcoreapp2.1\Ch06Ex05.pdb
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.dll
+C:\Users\Automne\source\repos\c#_programs\Ch06Ex05\Ch06Ex05\obj\Debug\netcoreapp2.1\Ch06Ex05.pdb

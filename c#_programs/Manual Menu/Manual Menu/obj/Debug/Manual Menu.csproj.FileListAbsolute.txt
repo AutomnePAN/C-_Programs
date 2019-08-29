@@ -1,0 +1,15 @@
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Manual_Menu.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Manual_Menu.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Manual Menu.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Manual Menu.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\bin\Debug\Simple Text Editor.exe.config
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\bin\Debug\Simple Text Editor.exe
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\bin\Debug\Simple Text Editor.pdb
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Simple Text Editor.exe
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Simple Text Editor.pdb
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\bin\Debug\Simple Text Editor.exe.manifest
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\bin\Debug\Simple Text Editor.application
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Manual Menu.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Simple Text Editor.TrustInfo.xml
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Simple Text Editor.exe.manifest
+C:\Users\Automne\source\repos\c#_programs\Manual Menu\Manual Menu\obj\Debug\Simple Text Editor.application

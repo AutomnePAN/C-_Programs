@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+C:\Users\Automne\source\repos\c#_programs\RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb

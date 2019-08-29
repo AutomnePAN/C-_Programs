@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\bin\Debug\WindowsFormsApp_19072019.exe.config
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\bin\Debug\WindowsFormsApp_19072019.exe
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\bin\Debug\WindowsFormsApp_19072019.pdb
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.exe
+C:\Users\Automne\source\repos\c#_programs\WindowsFormsApp_19072019\WindowsFormsApp_19072019\obj\Debug\WindowsFormsApp_19072019.pdb

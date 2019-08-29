@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\bin\Debug\TextBox_Control.exe.config
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\bin\Debug\TextBox_Control.exe
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\bin\Debug\TextBox_Control.pdb
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.exe
+C:\Users\Automne\source\repos\c#_programs\TextBox_Control\TextBox_Control\obj\Debug\TextBox_Control.pdb

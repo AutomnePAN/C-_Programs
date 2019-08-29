@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\bin\Debug\netcoreapp2.1\Test_Word_Processor.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\bin\Debug\netcoreapp2.1\Test_Word_Processor.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\bin\Debug\netcoreapp2.1\Test_Word_Processor.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\bin\Debug\netcoreapp2.1\Test_Word_Processor.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\bin\Debug\netcoreapp2.1\Test_Word_Processor.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\obj\Debug\netcoreapp2.1\Test_Word_Processor.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\obj\Debug\netcoreapp2.1\Test_Word_Processor.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\obj\Debug\netcoreapp2.1\Test_Word_Processor.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\obj\Debug\netcoreapp2.1\Test_Word_Processor.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Word_Processor\Test_Word_Processor\obj\Debug\netcoreapp2.1\Test_Word_Processor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\bin\Release\netcoreapp2.1\Test_Debug.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\bin\Release\netcoreapp2.1\Test_Debug.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\bin\Release\netcoreapp2.1\Test_Debug.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\bin\Release\netcoreapp2.1\Test_Debug.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\bin\Release\netcoreapp2.1\Test_Debug.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\obj\Release\netcoreapp2.1\Test_Debug.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\obj\Release\netcoreapp2.1\Test_Debug.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\obj\Release\netcoreapp2.1\Test_Debug.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\obj\Release\netcoreapp2.1\Test_Debug.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Debug\Test_Debug\obj\Release\netcoreapp2.1\Test_Debug.pdb

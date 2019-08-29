@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\bin\Debug\netcoreapp2.1\Test_Anonymous_Type.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\bin\Debug\netcoreapp2.1\Test_Anonymous_Type.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\bin\Debug\netcoreapp2.1\Test_Anonymous_Type.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\bin\Debug\netcoreapp2.1\Test_Anonymous_Type.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\bin\Debug\netcoreapp2.1\Test_Anonymous_Type.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Anonymous_Type\Test_Anonymous_Type\obj\Debug\netcoreapp2.1\Test_Anonymous_Type.pdb

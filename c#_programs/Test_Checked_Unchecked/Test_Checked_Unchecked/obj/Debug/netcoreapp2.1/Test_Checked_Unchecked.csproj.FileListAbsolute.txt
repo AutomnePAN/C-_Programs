@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\bin\Debug\netcoreapp2.1\Test_Checked_Unchecked.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\bin\Debug\netcoreapp2.1\Test_Checked_Unchecked.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\bin\Debug\netcoreapp2.1\Test_Checked_Unchecked.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\bin\Debug\netcoreapp2.1\Test_Checked_Unchecked.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\bin\Debug\netcoreapp2.1\Test_Checked_Unchecked.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Checked_Unchecked\Test_Checked_Unchecked\obj\Debug\netcoreapp2.1\Test_Checked_Unchecked.pdb

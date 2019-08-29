@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\bin\Debug\netcoreapp2.1\Test_Method_and_Parameters.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\bin\Debug\netcoreapp2.1\Test_Method_and_Parameters.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\bin\Debug\netcoreapp2.1\Test_Method_and_Parameters.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\bin\Debug\netcoreapp2.1\Test_Method_and_Parameters.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\bin\Debug\netcoreapp2.1\Test_Method_and_Parameters.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Method_and_Parameters\Test_Method_and_Parameters\obj\Debug\netcoreapp2.1\Test_Method_and_Parameters.pdb

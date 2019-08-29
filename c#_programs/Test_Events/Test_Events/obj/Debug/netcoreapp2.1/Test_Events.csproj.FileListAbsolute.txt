@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\bin\Debug\netcoreapp2.1\Test_Events.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\bin\Debug\netcoreapp2.1\Test_Events.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\bin\Debug\netcoreapp2.1\Test_Events.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\bin\Debug\netcoreapp2.1\Test_Events.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\bin\Debug\netcoreapp2.1\Test_Events.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\obj\Debug\netcoreapp2.1\Test_Events.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\obj\Debug\netcoreapp2.1\Test_Events.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\obj\Debug\netcoreapp2.1\Test_Events.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\obj\Debug\netcoreapp2.1\Test_Events.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Events\Test_Events\obj\Debug\netcoreapp2.1\Test_Events.pdb

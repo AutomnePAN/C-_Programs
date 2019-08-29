@@ -1,0 +1,9 @@
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\bin\Debug\ButtonDialog.exe.config
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\bin\Debug\ButtonDialog.exe
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\bin\Debug\ButtonDialog.pdb
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.exe
+C:\Users\Automne\source\repos\c#_programs\ButtonDialog\ButtonDialog\obj\Debug\ButtonDialog.pdb

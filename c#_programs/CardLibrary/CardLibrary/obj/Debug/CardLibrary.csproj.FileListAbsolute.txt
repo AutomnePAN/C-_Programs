@@ -1,0 +1,6 @@
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardLibrary\obj\Debug\CardLibrary.pdb

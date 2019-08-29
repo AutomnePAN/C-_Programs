@@ -1,0 +1,10 @@
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.Form1.resources
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Automne\source\repos\c#_programs\Lists\Lists\obj\Debug\Lists.pdb

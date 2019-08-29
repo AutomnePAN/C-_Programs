@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\bin\Debug\netcoreapp2.1\Test_Definition_Of_Event.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\bin\Debug\netcoreapp2.1\Test_Definition_Of_Event.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\bin\Debug\netcoreapp2.1\Test_Definition_Of_Event.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\bin\Debug\netcoreapp2.1\Test_Definition_Of_Event.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\bin\Debug\netcoreapp2.1\Test_Definition_Of_Event.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Definition_Of_Event\Test_Definition_Of_Event\obj\Debug\netcoreapp2.1\Test_Definition_Of_Event.pdb

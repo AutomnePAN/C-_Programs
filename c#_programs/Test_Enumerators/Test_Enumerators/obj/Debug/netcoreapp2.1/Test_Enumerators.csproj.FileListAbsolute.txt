@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\bin\Debug\netcoreapp2.1\Test_Enumerators.deps.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\bin\Debug\netcoreapp2.1\Test_Enumerators.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\bin\Debug\netcoreapp2.1\Test_Enumerators.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\bin\Debug\netcoreapp2.1\Test_Enumerators.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\bin\Debug\netcoreapp2.1\Test_Enumerators.pdb
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.dll
+C:\Users\Automne\source\repos\c#_programs\Test_Enumerators\Test_Enumerators\obj\Debug\netcoreapp2.1\Test_Enumerators.pdb

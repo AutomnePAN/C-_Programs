@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\bin\Debug\netcoreapp2.1\JustTest.deps.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\bin\Debug\netcoreapp2.1\JustTest.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\bin\Debug\netcoreapp2.1\JustTest.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\bin\Debug\netcoreapp2.1\JustTest.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\bin\Debug\netcoreapp2.1\JustTest.pdb
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.pdb
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\JustTest\JustTest\obj\Debug\netcoreapp2.1\JustTest.csprojAssemblyReference.cache

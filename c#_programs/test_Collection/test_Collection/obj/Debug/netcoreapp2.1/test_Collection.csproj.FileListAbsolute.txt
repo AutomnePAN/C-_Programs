@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\bin\Debug\netcoreapp2.1\test_Collection.deps.json
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\bin\Debug\netcoreapp2.1\test_Collection.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\bin\Debug\netcoreapp2.1\test_Collection.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\bin\Debug\netcoreapp2.1\test_Collection.dll
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\bin\Debug\netcoreapp2.1\test_Collection.pdb
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.dll
+C:\Users\Automne\source\repos\c#_programs\test_Collection\test_Collection\obj\Debug\netcoreapp2.1\test_Collection.pdb

@@ -1,0 +1,9 @@
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\bin\Debug\LabelTextTest.exe.config
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\bin\Debug\LabelTextTest.exe
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\bin\Debug\LabelTextTest.pdb
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.Properties.Resources.resources
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.csproj.GenerateResource.cache
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.exe
+C:\Users\Automne\source\repos\c#_programs\LLabelTextbox\LabelTextTest\obj\Debug\LabelTextTest.pdb

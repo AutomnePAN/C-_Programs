@@ -1,0 +1,14 @@
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardClient.deps.json
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardClient.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardClient.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardClient.dll
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardClient.pdb
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardLibrary.dll
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\bin\Debug\netcoreapp2.1\CardLibrary.pdb
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.csproj.CopyComplete
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.dll
+C:\Users\Automne\source\repos\c#_programs\CardLibrary\CardClient\obj\Debug\netcoreapp2.1\CardClient.pdb
