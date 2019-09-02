@@ -1,0 +1,11 @@
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\bin\Debug\netcoreapp2.1\CountSort.deps.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\bin\Debug\netcoreapp2.1\CountSort.runtimeconfig.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\bin\Debug\netcoreapp2.1\CountSort.runtimeconfig.dev.json
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\bin\Debug\netcoreapp2.1\CountSort.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\bin\Debug\netcoreapp2.1\CountSort.pdb
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.csprojAssemblyReference.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.csproj.CoreCompileInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.AssemblyInfoInputs.cache
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.AssemblyInfo.cs
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.dll
+C:\Users\Automne\source\repos\c#_programs\Algorithmes_Réalisation\CountSort\CountSort\obj\Debug\netcoreapp2.1\CountSort.pdb
